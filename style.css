@@ -1,0 +1,25 @@
+body {
+
+    background-color: white;
+}
+
+table {
+
+    border: 5px solid;
+    table-layout: fixed;
+}
+
+th, td {
+
+    border-radius: 1px;
+    border: 1px solid;
+    width: 800px;
+    table-layout: fixed;
+
+}
+
+td, th {
+
+    padding: 0.5em;
+    text-align: center;
+}
