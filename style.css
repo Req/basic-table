@@ -1,0 +1,19 @@
+table {
+    border:4px solid;
+}
+
+td, th {
+    border: 1px solid;
+}
+
+img {
+    width: 80px;
+}
+
+thead {
+    height: 60px;
+}
+
+td:nth-child(2) {
+    font-weight: bold;
+}
