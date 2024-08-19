@@ -1,0 +1,12 @@
+img {
+    width: 10rem;
+}
+
+table {
+    border: 4px solid;
+}
+
+tr, td {
+    border: 1px solid;
+    padding: .5rem;
+}
