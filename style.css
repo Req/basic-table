@@ -1,0 +1,13 @@
+table, thead, tr, th, td {
+    border: 3px solid black;
+}
+tr, th, td {
+    border: 1px solid black;
+    padding: 7px;
+}
+a img{
+    width: 100px;
+    height: 40px;
+    object-fit: contain;
+    padding: 9px;
+}
